@@ -1,2 +1,3 @@
 # autoNewFile
 一键生成md文件
+configs作用：当auto为true时，自动在脚本运行目录下的所有文件夹下创建md文件;反之，当为false时会读取template中的路径进行填充，fileContent为填充内容；
